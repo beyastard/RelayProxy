@@ -1,0 +1,4 @@
+proxy.0.sourceAddr=localhost
+proxy.0.sourcePort=2000
+proxy.0.destAddr=test.xy.net
+proxy.0.destPort=19
